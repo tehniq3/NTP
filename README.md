@@ -8,3 +8,6 @@ use info from:
 - https://github.com/SensorsIot/NTPtimeESP
 - https://www.instructables.com/id/ESP32-Based-Clock/
 - https://github.com/marcudanf/espclock
+
+![analog](https://2.bp.blogspot.com/-WL1jAoQIc9U/W6c7PsK7giI/AAAAAAAAXx0/ShixTY6S7w4whyV7UFkh9yO7_Peo-BZHACLcBGAs/s1600/ntp2.JPG)
+![digital](https://2.bp.blogspot.com/-jGoV90zyURo/W6c7MR1wgFI/AAAAAAAAXxw/JVnB7wVOPt4Vp1W48fFqOQwaf7tNUkJbwCLcBGAs/s1600/ntp1.JPG)
